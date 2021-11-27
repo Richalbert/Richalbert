@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Richalbert
-- 👀 I’m interested in Big Data
+- 👀 I’m interested in Big Data and I.A
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on I.A.
 - 📫 How to reach me ...
