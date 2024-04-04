@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on I.A.
 - 📫 How to reach me ...
 
+- in 2024 I learn C++ again, I follow lessons of Celine Noel
+
 <!---
 Richalbert/Richalbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
