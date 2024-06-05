@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 
 - in 2024 I learn C++ again, I follow lessons of Celine Noel
+- and I learn Python again
+
+To be FreeLenceDevMan : )
 
 <!---
 Richalbert/Richalbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
